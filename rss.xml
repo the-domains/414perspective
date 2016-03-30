@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[414perspective]]></title>
         <description><![CDATA[414perspective]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/414perspective/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 13:05:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 15:43:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/414perspective/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Engaging Simplicity]]></title>
+            <description><![CDATA[<article><h1>Engaging Simplicity</h1><p>Web Design - Engaging Simplicity</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3555fcda-3c71-4f72-b0be-09edb78d8aeb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/414perspective/web-design/index.html</link>
+            <guid isPermaLink="false">67ec9ffa-f53e-4fa1-b494-0f9110ffe9e4</guid>
+            <pubDate>Wed, 30 Mar 2016 15:43:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Light & Time]]></title>
             <description><![CDATA[<article><h1>Light & Time</h1><p>Photography - Light & Time</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cfcd2f44a1eed42eb3d9c24439a9309387394d8.jpg"></article>]]></description>
-            <link>undefinedlight-and-time/index.html</link>
+            <link>https://thegrid.ai/414perspective/light-and-time/index.html</link>
             <guid isPermaLink="false">f7bc6b5c-537c-4cb3-a23b-c7287545ce1e</guid>
             <pubDate>Wed, 30 Mar 2016 13:05:18 GMT</pubDate>
         </item>
