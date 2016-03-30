@@ -1,6 +1,6 @@
 name: 414perspective
 favicon: null
-layout_spectrum: 0.25377
+layout_spectrum: 0.99749
 typography_spectrum: 0.75461
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#293948'
     - '#626d7b'
     - '#c58d27'
-  brandStrength: 0.2585957224946469
+  brandStrength: 0.1875
   lightness: 0.5436392652336508
   saturation: 0.6276970107574016
   rhythmicContrast: 0.3199650659225881
